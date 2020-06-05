@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.calendar {
+  border: 1px solid red;
+  width: 400px;
+  height: 600px;
+}
+
+.day-headings {
+  display: flex;
+}
+
+.week-day {
+  flex: 1;
+}
